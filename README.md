@@ -1,2 +1,2 @@
 # node-crash-course
- Mini project using Node, express, ejs, Mongodb
+  file operations, routes, basic projects using Node, express, ejs, Mongodb
