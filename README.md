@@ -1,2 +1,2 @@
 # node-crash-course
- A blog Using Node, express, ejs, Mongodb
+ Mini project using Node, express, ejs, Mongodb
